@@ -1,0 +1,394 @@
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> pipeline.sh <==
+#!/bin/bash
+python3 - <<'EOF'
+# TODO: Set your source and target languages. Keep in mind, these traditionally use language codes as found here:
+# These will also become the suffix's of all vocab and corpus files used throughout
+
+import os
+source_language = "de"
+target_language = "en" 
+lc = False  # If True, lowercase the data.
+seed = 42  # Random seed for shuffling.
+
+==> Untitled.ipynb <==
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> pipeline.sh <==
+
+==> pipeline.sh <==
+#!/bin/bash
+python3 - <<'EOF'
+# TODO: Set your source and target languages. Keep in mind, these traditionally use language codes as found here:
+# These will also become the suffix's of all vocab and corpus files used throughout
+
+import os
+source_language = "de"
+target_language = "en" 
+lc = False  # If True, lowercase the data.
+seed = 42  # Random seed for shuffling.
+
+==> Untitled.ipynb <==
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+0 0 total
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> pipeline.sh <==
+
+==> pipeline.sh <==
+#!/bin/bash
+python3 - <<HERE
+# TODO: Set your source and target languages. Keep in mind, these traditionally use language codes as found here:
+# These will also become the suffix's of all vocab and corpus files used throughout
+
+import os
+source_language = "de"
+target_language = "en" 
+lc = False  # If True, lowercase the data.
+seed = 42  # Random seed for shuffling.
+
+==> Untitled.ipynb <==
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> pipeline.sh <==
+
+==> pipeline.sh <==
+#!/bin/bash
+python3 - <<HERE
+# TODO: Set your source and target languages. Keep in mind, these traditionally use language codes as found here:
+# These will also become the suffix's of all vocab and corpus files used throughout
+
+import os
+source_language = "de"
+target_language = "en" 
+lc = False  # If True, lowercase the data.
+seed = 42  # Random seed for shuffling.
+
+==> Untitled.ipynb <==
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+0 0 total
+BPE Test language Sentences
+Combined BPE Vocab
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> pipeline.sh <==
+
+==> pipeline.sh <==
+#!/bin/bash
+
+python3 - <<'EOF'
+# TODO: Set your source and target languages. Keep in mind, these traditionally use language codes as found here:
+# These will also become the suffix's of all vocab and corpus files used throughout
+
+import os
+source_language = "de"
+target_language = "en" 
+lc = False  # If True, lowercase the data.
+
+==> Untitled.ipynb <==
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> pipeline.sh <==
+
+==> pipeline.sh <==
+#!/bin/bash
+
+python3 - <<'EOF'
+# TODO: Set your source and target languages. Keep in mind, these traditionally use language codes as found here:
+# These will also become the suffix's of all vocab and corpus files used throughout
+
+import os
+source_language = "de"
+target_language = "en" 
+lc = False  # If True, lowercase the data.
+
+==> Untitled.ipynb <==
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+0 0 total
+BPE Test language Sentences
+Combined BPE Vocab
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> pipeline.sh <==
+
+==> pipeline.sh <==
+#!/bin/bash
+
+python3 - <<'EOF'
+# TODO: Set your source and target languages. Keep in mind, these traditionally use language codes as found here:
+# These will also become the suffix's of all vocab and corpus files used throughout
+
+import os
+source_language = "de"
+target_language = "en" 
+lc = False  # If True, lowercase the data.
+
+==> Untitled.ipynb <==
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> pipeline.sh <==
+
+==> pipeline.sh <==
+#!/bin/bash
+
+python3 - <<'EOF'
+# TODO: Set your source and target languages. Keep in mind, these traditionally use language codes as found here:
+# These will also become the suffix's of all vocab and corpus files used throughout
+
+import os
+source_language = "de"
+target_language = "en" 
+lc = False  # If True, lowercase the data.
+
+==> Untitled.ipynb <==
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+0 0 total
+BPE Test language Sentences
+Combined BPE Vocab
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> pipeline.sh <==
+
+==> pipeline.sh <==
+#!/bin/bash
+
+# TODO: Set your source and target languages. Keep in mind, these traditionally use language codes as found here:
+# These will also become the suffix's of all vocab and corpus files used throughout
+
+python3 - <<'EOF'
+import os
+source_language = "de"
+target_language = "en" 
+lc = False  # If True, lowercase the data.
+
+==> Untitled.ipynb <==
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> output.txt <==
+==> corpus <==
+
+==> joeynmt <==
+
+==> pipeline.sh <==
+
+==> pipeline.sh <==
+#!/bin/bash
+
+# TODO: Set your source and target languages. Keep in mind, these traditionally use language codes as found here:
+# These will also become the suffix's of all vocab and corpus files used throughout
+
+python3 - <<'EOF'
+import os
+source_language = "de"
+target_language = "en" 
+lc = False  # If True, lowercase the data.
+
+==> Untitled.ipynb <==
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "metadata": {
+    "scrolled": true
+   },
+   "outputs": [
+    {
+0 0 total

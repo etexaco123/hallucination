@@ -1,0 +1,9 @@
+*.zip
+*.gz
+*.out
+JoeyNMT2
+JoeyNMT_DA
+*.de
+*.en
+*.tok
+*.tmx
